@@ -8,4 +8,8 @@ featuredimage: /img/presupuesto-maximo-no-pbs.png
 tags:
   - internet test
 ---
+![negocios](/img/presupuesto-maximo-no-pbs.png "negocios on line")
+
+
+
 Aquí va el contenido de la nueva entrada de blog
